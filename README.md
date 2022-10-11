@@ -1,0 +1,28 @@
+# Comandos Básicos Git/GitHub
+
+- cls > limpar a tela
+- cd (pasta) > Navegar pelas pastar
+- cd .. > sair da pasta
+- dir > ver as pastas 
+- mkdir > criar pastas 
+- echo > printar um valor no terminal
+- echo (nome de arquivo) > cria um arquivo na pasta
+- del (nome da pasta) > deleta o arquivo
+- rdmir > deletar o repositória/pasta
+- /todo comendo do git começa com a palvra "git"/
+- git init > faz com que o git rode na pasta para gerenciar
+- ls -a > mostra arquivos ocultos
+- git commit -m "" > gera um commit com uma
+- mensagemclear(objeto)
+- git status > mostra o status
+- git add "" > adiciona um arquivo para status
+- git add * > adiciona todos os arquivos para staged
+
+///////////////////////////////////////////////////////////////////
+#### ciclo de vida/significado das palavras 
+
+*untracked*: git não sabe da existência
+*unmodified*: não sofreu modificação 
+*modified*: sofreu modificação 
+*staged*: se preparando pra fazer parte de um commit
+*commit*: objeto
